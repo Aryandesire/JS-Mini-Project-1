@@ -14,7 +14,7 @@ Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies”, is a paper-
 
 * Winner: Player A
 * Winner: Player B
-* Dra
+* DraW
  
 
 
