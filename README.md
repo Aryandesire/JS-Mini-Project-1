@@ -9,12 +9,7 @@ Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies”, is a paper-
   ### A basic Tic Tac Toe game built using HTML/JavaScript/CSS
   
  #### How to get started
-1. To make a move, the player will use the mouse single click to mark a space. In this version, there is no provision to undo the move. As soon as the move is done, the game proceeds to the next player’s chance.
-2. At each move, The game will show whose move (Player A or Player B) it is. When the game ends, it displays one of the following three outcomes:
-
-* Winner: Player A
-* Winner: Player B
-* DraW
+Tic-Tac-Toe is a simple game for two players that we enjoyed playing as kids (especially in boring classrooms). The game involves 2 players placing their respective symbols in a 3x3 grid. The player who manages to place three of their symbols in horizontal/vertical/diagonal row wins the game. If either player fails to do so the game ends in a draw. If both the people always play their optimal strategies the game always ends in a draw.
  
 
 
