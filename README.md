@@ -5,7 +5,8 @@ Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies”, is a paper-
 
 # Hi, I am Ajeet kumar! 👋
 
-#Tic Tac Toe
+
+##Tic Tac Toe
 A basic Tic Tac Toe game built using HTML/JavaScript/CSS.
 
 
